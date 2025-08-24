@@ -34,6 +34,8 @@ Welcome to my portfolio. Below, you’ll find a curated selection of technical d
 
 Feel free to explore each document to get a sense of my approach to tone, structure, and developer communication.
 
+#### You can download my resume in PDF format. Click [here!](https://github.com/magnolianat/magnolianat/blob/main/Updated%20August%20Natalia%20Seijo.pdf) ####
+
 
 
 
